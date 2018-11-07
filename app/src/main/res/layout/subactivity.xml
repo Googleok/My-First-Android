@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="1"
+    tools:context=".MainActivity">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.5"
+        android:background="#FBCCE7"
+        android:orientation="horizontal">
+
+
+
+        <com.google.android.youtube.player.YouTubePlayerView
+            android:id="@+id/youtube_player"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:background="#ffff" />
+
+    </LinearLayout>
+    <!-- 유튜브 영상 넣을 레이아웃 1 -->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.5"
+        android:background="#FFC1CC"
+        android:orientation="vertical"
+        android:weightSum="1">
+        <!-- 가사와 버튼들 넣을 레이아웃 2 -->
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_gravity="center"
+            android:layout_weight="0.3">
+
+
+            <TextView
+                android:id="@+id/textView"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="10dp"
+                android:background="#F0F8FF"
+                android:gravity="center"
+                android:text="Lyrics"
+                android:textColor="#013220" />
+            <!-- 가사 텍스트뷰-->
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="0.7"
+            android:orientation="vertical"
+            android:weightSum="1">
+
+
+            <Spinner
+                android:id="@+id/spinner"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_margin="10dp"
+                android:layout_weight="0.25"
+                android:background="#89CFF0"
+                android:gravity="center" />
+
+
+            <Button
+                android:id="@+id/button2"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_margin="10dp"
+                android:layout_weight="0.25"
+                android:background="#77DD77"
+                android:text="like this phrase" />
+
+            <Button
+                android:id="@+id/button3"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_margin="10dp"
+                android:layout_weight="0.25"
+                android:background="#CB99C9"
+                android:text="like this song" />
+
+            <Button
+                android:id="@+id/button4"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_margin="10dp"
+                android:layout_weight="0.25"
+                android:background="#ff773d"
+                android:text="Back home" />
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,270 @@
+<resources>
+    <string name="app_name">팝송으로 영어배우기</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string-array name="map_eng">
+
+        <item> I miss the taste of a sweeter life </item>
+        <item> I miss the conversation </item>
+        <item> I am searching for a song tonight </item>
+        <item> I am changing all of the stations </item>
+        <item> I like to think that we had it all </item>
+        <item> We draw a map to a better place </item>
+        <item> But on that road I took a fall </item>
+        <item> Oh baby why did you run away\? </item>
+        <item> I was there for you in your darkest times </item>
+        <item> I was there for you in your darkest night </item>
+        <item> But I wonder where were you </item>
+        <item> When I was at my worst down on my knees </item>
+        <item> And you said you had my back </item>
+
+        <item> So I wonder where were you</item> 47
+        <item> When all the roads you took came back to me</item>50
+        <item> So I\'m following the map that leads to you</item>53
+        <item> The map that leads to you</item>56
+        <item> Ain\'t nothing I can do</item>59
+        <item> The map that leads to you</item>61
+        <item> Following\, following\, following to you</item>62
+        <item> The map that leads to you</item>65
+        <item> Ain\'t nothing I can do</item>66
+        <item> The map that leads to you</item>68
+        <item> Following\, following\, following</item>70
+
+        <item> I hear your voice in my sleep at night</item>
+        <item> Hard to resist temptation</item>
+        <item>Cause something strange has come over me</item>
+        <item>And now I can't get over you</item>
+        <item>No, I just can't get over you</item>
+        <item> I was there for you In your darkest times</item>
+        <item>I was there for you In your darkest night</item>
+        <item>But I wonder where were you</item>
+        <item> When I was at my worst</item>
+        <item>  Down on my knees</item>
+        <item> And you said you had my back</item>
+        <item>So I wonder where were you</item>
+        <item>When all the roads you took came back to me</item>
+        <item>So I'm following the map that leads to you</item>
+        <item>The map that leads to you</item>
+        <item>Ain't nothing I can do</item>
+        <item>The map that leads to you</item>
+        <item> Following, following, following to you</item>
+        <item> The map that leads to you</item>
+        <item> Ain't nothing I can do</item>
+        <item> The map that leads to you</item>
+        <item> Following, following, following</item>
+        <item> Oh oh oh</item>
+        <item> Oh oh oh</item>
+        <item> Yeah yeah yeah</item>
+        <item> Oh oh, um</item>
+        <item> Oh, I was there for you Oh, in your darkest time</item>
+        <item> Oh, I was there for you Oh, in your darkest night</item>
+        <item> Oh, I was there for you Oh, in your darkest time</item>
+        <item> Oh, I was there for you Oh, in your darkest night</item>
+        <item> But I wonder where were you</item>
+        <item> When I was at my worst</item>
+        <item> Down on my knees</item>
+        <item> And you said you had my back</item>
+        <item> So I wonder where were you</item>
+        <item> When all the roads you took came back to me</item>
+        <item> So I'm following the map that leads to you</item>
+        <item> The map that leads to you</item>
+        <item> Ain't nothing I can do</item>
+        <item> The map that leads to you</item>
+        <item> Following, following, following to you</item>
+        <item> The map that leads to you</item>
+        <item> Ain't nothing I can do</item>
+        <item> The map that leads to you</item>
+        <item> Following, following, following</item>
+    </string-array>
+
+<string-array name="map_kor">
+
+    <item> 행복했던 시절의 감촉이 그리워 </item>
+    <item> 행복했던 대화도 그립고 </item>
+    <item> 난 오늘 밤에 부를만한 노래를 찾아다니는 중이야 </item>
+    <item> 이곳저곳을 돌아다니고 있지 </item>
+    <item> 난 우리가 모든 걸 다 가졌다고 생각했어 </item>
+    <item> 더 나은 곳으로 나아가기 위해 우린 지도를 그리기도 했었지 </item>
+    <item> 그런데 난 그 길에서 넘어졌어 </item>
+    <item> 내 사랑 어째서 넌 날 두고 도망간 거야? </item>
+    <item> 네가 가장 힘들 때 난 너를 위해 함께 있어 주었어 </item>
+    <item> 네가 가장 힘든 시기에 난 너를 위해 같이 있어 주었어 </item>
+    <item> 그런데 넌 어디에 있었던 거니 </item>
+    <item> 나에게 가장 힘든 시간 무릎을 꿇고 주저앉아 있었을 때 말이야 </item>
+    <item> 넌 무슨 일이 있더라도 절대 내 곁을 떠나지 않을 거라 말했지 </item>
+    <item> 그래서, 넌 내가 가장 힘든 시간을 보낼 때 어디에 있었던 거니</item>
+    <item> 네가 간 길은 전부 내게 돌아오는 길이야</item>
+    <item> 그래서 난 네게로 향하는 지도를 따라가고 있어</item>
+    <item> 네게로 향하는 지도,</item>
+    <item> 내가 할 수 있는 건 아무것도 할 수 없어</item>
+    <item> 네게로 향하는 지도,</item>
+    <item> 널 따라가고 있어</item>
+    <item> 네게로 향하는 지도,</item>
+    <item> 내가 할 수 있는 건 아무것도 할 수 없어</item>
+    <item> 네게로 향하는 지도,</item>
+    <item> 널 따라가고 있어</item>
+    <item> 밤에 잠을 뒤척이다 너의 목소리를 듣기도 해</item>
+    <item> 평정심을 유지하기가 정말 힘들더라</item>
+    <item> 내게 선 가끔씩 이런 환청들이 들려와</item>
+    <item> 그래, 이젠 널 못 잊겠어</item>
+    <item> 이젠 절대 널 못 잊겠어</item>
+    <item> 네가 가장 힘들 때, 난 너를 위해 함께 있어 주었어</item>
+    <item> 네가 가장 힘든 시기에, 난 너를 위해 같이 있어 주었어</item>
+    <item> 그런데 넌 어디에 있었던 거니</item>
+    <item> 내가 가장 힘든 시간을 보냈을 때,</item>
+    <item> 무릎을 꿇고 주저앉아 있었을 때 말이야</item>
+    <item> 넌 무슨 일이 있더라도 절대 내 곁을 떠나지 않을 거라 말했지</item>
+    <item> 그래서, 넌 내가 가장 힘든 시간을 보낼 때 어디에 있었던 거니</item>
+    <item> 네가 간 길은 전부 내게 돌아오는 길이야</item>
+    <item> 그래서 난 네게로 향하는 지도를 따라가고 있어</item>
+    <item> 네게로 향하는 지도,</item>
+    <item> 내가 할 수 있는 건 아무것도 할 수 없어</item>
+    <item> 네게로 향하는 지도,</item>
+    <item> 널 따라가고 있어</item>
+    <item> 네게로 향하는 지도,</item>
+    <item> 내가 할 수 있는 건 아무것도 할 수 없어</item>
+    <item> 네게로 향하는 지도,</item>
+    <item> 널 따라가고 있어</item>
+    <item> 네가 가장 힘들 때, 난 너를 위해 함께 있어 주었어</item>
+    <item> 네가 가장 힘든 시기에, 난 너를 위해 같이 있어 주었어</item>
+    <item> 네가 가장 힘들 때, 난 너를 위해 함께 있어 주었어</item>
+    <item> 네가 가장 힘든 시기에, 난 너를 위해 같이 있어 주었어</item>
+    <item> 그런데 넌 어디에 있었던 거니</item>
+    <item> 내가 가장 힘든 시간을 보냈을 때,</item>
+    <item> 무릎을 꿇고 주저앉아 있었을 때 말이야</item>
+    <item> 넌 무슨 일이 있더라도 절대 내 곁을 떠나지 않을 거라 말했지</item>
+    <item> 그래서, 넌 내가 가장 힘든 시간을 보낼 때 어디에 있었던 거니</item>
+    <item> 네가 간 길은 전부 내게 돌아오는 길이야</item>
+    <item> 그래서 난 네게로 향하는 지도를 따라가고 있어</item>
+    <item> 네게로 향하는 지도,</item>
+    <item> 내가 할 수 있는 건 아무것도 할 수 없어</item>
+    <item> 네게로 향하는 지도,</item>
+    <item> 널 따라가고 있어</item>
+    <item> 네게로 향하는 지도,</item>
+    <item> 내가 할 수 있는 건 아무것도 할 수 없어</item>
+    <item> 네게로 향하는 지도,</item>
+    <item> 널 따라가고 있어</item>
+</string-array>
+
+
+
+<string-array name="shape_eng">
+
+    <item> The club is not the best place to find a lover </item>
+    <item> So the bar is where I go </item>
+    <item> Me and my friends at the table doing shots </item>
+    <item> Drinking faster and then we talk slow  </item>
+    <item> Come over and start up a conversation with just me</item>
+    <item> And trust me I\'ll give it a chance now</item>
+    <item> Take my hand\, stop put van the man on the jukebox</item>
+    <item> And then we start to dance and now I\'m singing like</item>
+    <item> Girl\, you know I want your love</item>
+    <item> Your love was handmade for somebody like me</item>
+    <item> Come on now\, follow my lead</item>
+    <item> I may be crazy\, don\'t mind me</item>
+    <item> Say\, boy\, let\'s not talk too much</item>
+    <item> Grab on my waist and put that body on me</item>
+    <item> Come on now\, follow my lead</item>
+    <item> Come\, come on now\, follow my lead</item>
+    <item> I\'m in love with the shape of you</item>
+    <item> We push and pull like a magnet do</item>
+    <item> Although my heart is falling too</item>
+    <item> I\'m in love with your body</item>
+    <item> And last night you were in my room</item>
+    <item> And now my bed sheets smell like you</item>
+    <item> Every day discovering something brand new</item>
+    <item> I\'m in love with your body</item>
+    <item> Every day discovering something brand new</item>
+    <item> I\'m in love with the shape of you</item>
+
+
+    <item> One week in we let the story begin</item>
+    <item> We're going out on our first date</item>
+    <item> You and me are thrifty</item>
+    <item> So go all you can eat</item>
+    <item> Fill up your bag and I fill up a plate</item>
+    <item> We talk for hours and hours about the sweet and the sour</item>
+    <item> And how your family is doing okay</item>
+    <item> Leave and get in a taxi, then kiss in the backseat</item>
+    <item> Tell the driver make the radio play and I'm singing like</item>
+    <item> Girl, you know I want your love</item>
+    <item> Your love was handmade for somebody like me</item>
+    <item> Come on now, follow my lead</item>
+    <item> I may be crazy, don't mind me</item>
+    <item> Say, boy, let's not talk too much</item>
+    <item> Grab on my waist and put that body on me</item>
+    <item> Come on now, follow my lead</item>
+    <item> Come, come on now, follow my lead</item>
+    <item> I'm in love with the shape of you</item>
+    <item> We push and pull like a magnet do</item>
+    <item> Although my heart is falling too</item>
+    <item> I'm in love with your body</item>
+    <item> And last night you were in my room</item>
+    <item> And now my bed sheets smell like you</item>
+    <item> Every day discovering something brand new</item>
+    <item> I'm in love with your body</item>
+    <item> Come on, be my baby, come on</item>
+    <item> Come on, be my baby, come on</item>
+
+</string-array>
+<string-array name="shape_kor">
+
+    <item> 클럽은 인연을 찾기에 좋은 장소는 아니야 </item>
+    <item> 그래서 나는 바에 가지 </item>
+    <item> 나와 내 친구들은 자리를 잡고 술을 마셔 </item>
+    <item> 마시는 건 빨라지고 말은 느려지지 </item>
+    <item> 여기 와서 나와 단둘이 얘기를  시작하자</item>
+    <item> 그리고 날 믿어봐 지금 기회를 걸 테니까</item>
+    <item> 내 손을 잡고, 잠깐 밴 모리슨 노래를 틀자</item>
+    <item> 그럼 우린 춤을 시작하고 난 이렇게 노래하겠지</item>
+    <item> 내가 네 사랑을 원한다는 걸 알잖아</item>
+    <item> 네 사랑은 나같은 사람을 위해서 만들어졌어</item>
+    <item> 지금 어서, 날 따라와</item>
+    <item> 내가 미쳤을지도 모르지만 신경쓰지 마</item>
+    <item> 그리고 이렇게 말해봐 "우리 말은 많이 하지 말자"</item>
+    <item> 내 허리를 잡고 내게 몸을 맡겨</item>
+    <item> 지금 어서, 날 따라와</item>
+    <item> 지금 어서, 날 따라와</item>
+    <item> 난 네 모습에 반했어</item>
+    <item> 우린 자석처럼 밀고 당겨</item>
+    <item> 내 마음이 빠져들고 있고</item>
+    <item> 네 몸에도 반해버렸어</item>
+    <item> 지난 밤 넌 내 방에 있었지</item>
+    <item> 내 침대 시트에서는 네 향기가 나</item>
+    <item> 매일 새로운 무언가를 발견하고</item>
+    <item> 난 네 몸에 반해버렸어</item>
+    <item> 우리 이야기가 일주일만에 시작됐네</item>
+    <item> 우린 첫 데이트를 하고 있어</item>
+    <item> 너와 난 돈도 아껴쓰고</item>
+    <item> 그래서 뷔페식당으로 가</item>
+    <item> 넌 가방을 채우고, 난 접시를 채워</item>
+    <item> 우린 달콤함과 쓸쓸함에 대해 한참동안 얘기하고</item>
+    <item> 네 가족의 안부를 묻고</item>
+    <item> 일어나 택시를 잡고, 뒷좌석에서 키스해</item>
+    <item> 기사에게 라디오를 틀어달라 하고 난 이렇게 노래해</item>
+    <item> 내가 네 사랑을 원한다는 걸 알잖아</item>
+    <item> 네 사랑은 나같은 사람을 위해서 만들어졌어</item>
+    <item> 지금 어서, 날 따라와</item>
+    <item> 내가 미쳤을지도 모르지만 신경쓰지 마</item>
+    <item> 그리고 이렇게 말해봐 "우리 말은 많이 하지 말자"</item>
+    <item> 내 허리를 잡고 내게 몸을 맡겨</item>
+    <item> 지금 어서, 날 따라와</item>
+    <item> 지금 어서, 날 따라와</item>
+    <item> 난 네 모습에 반했어</item>
+    <item> 우린 자석처럼 밀고 당겨</item>
+    <item> 내 마음이 빠져들고 있고</item>
+    <item> 네 몸에도 반해버렸어</item>
+    <item> 지난 밤 넌 내 방에 있었지</item>
+    <item> 내 침대 시트에서는 네 향기가 나</item>
+    <item> 매일 새로운 무언가를 발견하고</item>
+    <item> 난 네 몸에 반해버렸어</item>
+    <item> 어서, 내 사랑이 되어줘, 어서</item>
+    <item> 어서, 내 사랑이 되어줘, 어서</item>
+
+</string-array>
+
+
+</resources>
